@@ -54,15 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "Shiny, Pakka na?",
+    "Shinzula, soch lo ek baar??",
+    "Are you positive babe?",
     "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Ek baar soch lo!",
+    "I will be really sad if you say No...",
+    "I will be very sad Shiny...",
     "Ok fine, I will stop asking...",
+    "Tumhari Na me v Haan hai...",
     "Just kidding, say yes please! ❤️"
 ];
 
